@@ -1,3 +1,54 @@
 .experince_kerela{
    color: #036;
 }
+
+
+.common-img{
+
+    width: 100%;
+}
+
+.image-box{
+
+   height: 300px;
+   width: 500px;
+}
+
+.slider{
+
+    width: 300px;
+    height:100px;
+}
+.img-width{
+
+    height: 200px;
+}
+
+.font-size{
+
+    font-size: 14px;
+    font-weight:bold;
+}
+.kerala-turisom{
+   width: 190px;
+   height: auto;
+
+}
+.navbar-bg{
+
+   background-color:#071982;
+}
+
+@media (max-width:600px){
+        
+    #img-height{
+
+        height: 300px;
+    }
+    #explore{
+
+        width: 274px;
+        height: 55px;
+    }
+
+}
